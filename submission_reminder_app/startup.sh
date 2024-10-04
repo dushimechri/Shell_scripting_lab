@@ -1,2 +1,2 @@
 #!/bin/bash
-/app/reminder.sh
+./app/reminder.sh
